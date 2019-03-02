@@ -61,6 +61,7 @@
     font-weight: 700;
     padding: 22px 44px;
     border: none;
+    cursor: pointer;
 }
 
 .button-o {
